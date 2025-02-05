@@ -1,0 +1,6 @@
+my_region = "us-east-2"
+access_key = "****"
+secret_key = "*****"
+my_ami =  "ami-0cb91c7de36eed2cb"
+vpc_id = "vpc-037ac701466897173"
+instance_type = "t2.micro"
